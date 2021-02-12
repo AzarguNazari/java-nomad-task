@@ -1,0 +1,3 @@
+job "bad-application" {
+
+}
